@@ -1,96 +1,81 @@
 # Hassan Abbas Gora
 
-## Cloud Infrastructure Architect | Azure | Hybrid | Automation | Security
+## Infrastructure Private/Public Engineering Manager | Azure Cloud Architecture | Terraform | DevOps
 
 ---
 
 ### 👤 About Me
 
-Cloud Infrastructure Professional with 13+ years of experience in designing, migrating, securing, and optimizing enterprise-grade infrastructure environments. 
+Infrastructure Engineering Manager with 13+ years of experience leading enterprise infrastructure transformation from private datacenters to Microsoft Azure public cloud.
 
-Specialized in Microsoft Azure IaaS, Hybrid Cloud, Identity, Monitoring, Disaster Recovery, and Infrastructure Automation.
+Currently driving large-scale cloud migration initiatives focused on file services, enterprise applications, and hybrid infrastructure modernization using Infrastructure as Code and CI/CD automation practices.
 
 Strong focus on:
-- High Availability & Resilience Engineering
-- Secure-by-Design Architecture
-- Cost Optimization & Governance
-- Automation-First Approach
-- Enterprise Migration Strategy
+
+- Cloud Architecture & Landing Zone Design
+- Private-to-Public Cloud Migration Strategy
+- Infrastructure as Code (Terraform)
+- CI/CD Deployments using Azure DevOps
+- Secure & Governed Azure Environments
+- High Availability & Disaster Recovery Engineering
 
 ---
 
-### ☁️ Cloud & Infrastructure Expertise
+### ☁️ Cloud & Architecture Expertise
 
 **Microsoft Azure**
-- Virtual Machines (Windows & Linux)
-- Virtual Networks & Hub-Spoke Architecture
-- Azure Load Balancer & Application Gateway
+- Landing Zone Architecture
+- Virtual Networks (Hub-Spoke)
+- Azure Virtual Machines
+- Azure Storage & Azure Files
 - Private Endpoints & Hybrid Connectivity
-- Azure Site Recovery (DR Strategy)
-- Azure Backup
+- Azure Backup & Site Recovery
 - Azure Monitor & Log Analytics
-- Azure Arc (Hybrid Management)
+- Azure Policy & Governance
 
-**Identity & Access**
-- Azure Active Directory
-- RBAC & Least Privilege Model
-- Conditional Access Strategy
+**Infrastructure as Code**
+- Terraform (Modular Deployment Strategy)
+- Environment-based Infrastructure Design
+- State Management & Remote Backends
 
-**Hybrid & Virtualization**
-- VMware vSphere
-- On-Prem to Azure Migration
-- Agent-Based Replication Architecture
+**DevOps & Automation**
+- Azure DevOps CI/CD Pipelines
+- YAML-based Deployments
+- PowerShell Automation
 
-**Automation**
-- PowerShell
-- YAML
-- Terraform (Infrastructure as Code Labs)
-
-**Security & Compliance**
-- Vulnerability Management
-- EDR Integration
-- Patch Management
-- System Hardening
+**Hybrid & Enterprise Infrastructure**
+- VMware Virtualization
+- Windows Server & Active Directory
+- Linux Administration (RHEL, SUSE, Ubuntu)
+- Identity & Access Management (RBAC)
 
 ---
 
-### 📂 Featured Architecture Projects
+### 📂 Current Focus Areas
 
-🔹 Azure Hub-Spoke Enterprise Network Design  
-🔹 Azure Monitoring & Telemetry Pipeline  
-🔹 Hybrid Infrastructure using Azure Arc  
-🔹 Secure Proxy + Private Endpoint Architecture  
-🔹 Terraform-based High Availability Deployment Lab  
-
-All architecture case studies are available in my repositories.
+- Enterprise Migration from On-Prem to Azure
+- Terraform-Based Infrastructure Standardization
+- Secure Networking & Private Connectivity
+- Cloud Cost Optimization Strategy
+- Automation-First Infrastructure Operations
 
 ---
 
 ### 🏗 Architecture Philosophy
 
-- Design for failure, not for success
+- Design for resilience and failure tolerance
 - Automate what is repeatable
-- Secure before scale
-- Govern before expansion
+- Govern before scale
+- Secure by default
 - Optimize continuously
-
----
-
-### 📊 Professional Highlights
-
-- 13+ Years IT Infrastructure Experience
-- Enterprise Azure Migration Projects
-- Multi-tier Application Architecture Design
-- High Availability & Disaster Recovery Planning
-- Cross-team Collaboration & Solution Design
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn URL)
-- Email: (Professional Email ID)
+LinkedIn: https://linkedin.com/in/hassan-abbas-gora-478b9a83  
+Email: hassanabbas.gora@gmail.com  
 
 ---
 
-> "Infrastructure should be resilient by default and automated by design."
+> "Modern infrastructure must be automated, governed, and resilient by design."
