@@ -1,81 +1,129 @@
 # Hassan Abbas Gora
 
-## Infrastructure Private/Public Engineering Manager | Azure Cloud Architecture | Terraform | DevOps
+### Cloud Infrastructure Architect | Azure | Terraform | Platform Engineering
+
+Welcome to my corner of GitHub.
+
+Over the last decade, I've worked across desktop support, systems administration, virtualization, datacenter operations, cloud engineering, and enterprise architecture. That journey has given me a practical understanding of how technology evolves—from supporting individual users to designing cloud platforms that support entire organizations.
+
+Today, I focus on helping businesses modernize infrastructure, migrate workloads to Azure, automate deployments through Infrastructure as Code, and build cloud platforms that are secure, scalable, and easy to operate.
 
 ---
 
-### 👤 About Me
+## What I'm Working On
 
-Infrastructure Engineering Manager with 13+ years of experience leading enterprise infrastructure transformation from private datacenters to Microsoft Azure public cloud.
+🔹 Azure Landing Zone Architecture
 
-Currently driving large-scale cloud migration initiatives focused on file services, enterprise applications, and hybrid infrastructure modernization using Infrastructure as Code and CI/CD automation practices.
+🔹 Infrastructure as Code with Terraform
 
-Strong focus on:
+🔹 Azure DevOps Automation
 
-- Cloud Architecture & Landing Zone Design
-- Private-to-Public Cloud Migration Strategy
-- Infrastructure as Code (Terraform)
-- CI/CD Deployments using Azure DevOps
-- Secure & Governed Azure Environments
-- High Availability & Disaster Recovery Engineering
+🔹 Hybrid Cloud Modernization
 
----
+🔹 Enterprise Storage & File Service Migrations
 
-### ☁️ Cloud & Architecture Expertise
+🔹 Platform Engineering Practices
 
-**Microsoft Azure**
-- Landing Zone Architecture
-- Virtual Networks (Hub-Spoke)
-- Azure Virtual Machines
-- Azure Storage & Azure Files
-- Private Endpoints & Hybrid Connectivity
-- Azure Backup & Site Recovery
-- Azure Monitor & Log Analytics
-- Azure Policy & Governance
-
-**Infrastructure as Code**
-- Terraform (Modular Deployment Strategy)
-- Environment-based Infrastructure Design
-- State Management & Remote Backends
-
-**DevOps & Automation**
-- Azure DevOps CI/CD Pipelines
-- YAML-based Deployments
-- PowerShell Automation
-
-**Hybrid & Enterprise Infrastructure**
-- VMware Virtualization
-- Windows Server & Active Directory
-- Linux Administration (RHEL, SUSE, Ubuntu)
-- Identity & Access Management (RBAC)
+🔹 Cloud Governance & Cost Optimization
 
 ---
 
-### 📂 Current Focus Areas
+## My Approach
 
-- Enterprise Migration from On-Prem to Azure
-- Terraform-Based Infrastructure Standardization
-- Secure Networking & Private Connectivity
-- Cloud Cost Optimization Strategy
-- Automation-First Infrastructure Operations
+I believe good infrastructure should be:
 
----
+* Predictable
+* Automated
+* Secure by design
+* Easy to maintain
+* Cost conscious
+* Built for scale
 
-### 🏗 Architecture Philosophy
-
-- Design for resilience and failure tolerance
-- Automate what is repeatable
-- Govern before scale
-- Secure by default
-- Optimize continuously
+Technology changes quickly, but these principles remain the same whether you're managing a small environment or an enterprise cloud platform.
 
 ---
 
-### 📫 Connect With Me
+## Technologies I Work With
 
-LinkedIn: https://linkedin.com/in/hassan-abbas-gora-478b9a83  
-Email: hassanabbas.gora@gmail.com  
+### Cloud
+
+Azure • Azure Storage • Azure Virtual Machines • Azure Virtual Desktop • Azure Backup • Azure Site Recovery • Azure Monitor • Log Analytics
+
+### Infrastructure as Code
+
+Terraform • ARM Templates • Azure CLI • PowerShell
+
+### DevOps
+
+Azure DevOps • Git • CI/CD Pipelines • Release Automation
+
+### Operating Systems
+
+Windows Server • Active Directory • DNS • DHCP • Group Policy
+
+Linux (RHEL, Ubuntu, SUSE, CentOS)
+
+### Virtualization
+
+VMware vSphere • ESXi • Hyper-V • Azure Virtual Desktop • FSLogix
+
+### Security & Governance
+
+RBAC • Azure Policy • Vulnerability Management • Cloud Governance • Identity & Access Management
 
 ---
 
-> "Modern infrastructure must be automated, governed, and resilient by design."
+## A Few Things I've Been Involved In
+
+* Designing Azure landing zones for enterprise workloads
+* Migrating on-premises infrastructure to Azure
+* Building reusable Terraform deployment frameworks
+* Automating cloud provisioning and deployment pipelines
+* Modernizing enterprise file services and storage platforms
+* Managing large-scale Windows, Linux, VMware, and Azure environments
+* Supporting infrastructure modernization initiatives across global organizations
+
+---
+
+## Current Interests
+
+I'm currently spending more time exploring:
+
+* Platform Engineering
+* Kubernetes
+* Cloud-native architectures
+* Enterprise automation
+* Observability and monitoring
+* AI-powered operations
+
+---
+
+## Certifications
+
+🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+🏅 Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+🏅 Microsoft Azure Linux Specialist
+
+🏅 Azure DevOps Fundamentals
+
+🏅 Kubernetes for Absolute Beginners
+
+---
+
+## Why This GitHub Exists
+
+This repository is not just a collection of code.
+
+It's where I document cloud architectures, automation projects, Terraform implementations, migration frameworks, and lessons learned from real-world infrastructure challenges.
+
+If you're interested in Azure, Terraform, DevOps, Hybrid Cloud, or Platform Engineering, you'll find plenty of practical examples here.
+
+---
+
+### Build once. Automate forever.
+
+📍 Hyderabad, India
+
+💼 LinkedIn: linkedin.com/in/hassan-abbas-gora-478b9a83
