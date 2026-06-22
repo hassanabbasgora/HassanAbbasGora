@@ -1,129 +1,183 @@
-# Hassan Abbas Gora
+<h1 align="center">
+  Hassan Abbas Gora
+</h1>
 
-### Cloud Infrastructure Architect | Azure | Terraform | Platform Engineering
+<h3 align="center">
+Cloud Infrastructure Consultant | Azure Hybrid Cloud | Terraform | Azure DevOps | Windows/Linux Platform
+</h3>
 
-Welcome to my corner of GitHub.
+<p align="center">
+Azure Infrastructure Engineer with 13+ years of experience designing, implementing, and supporting enterprise infrastructure environments across Microsoft Azure, Hybrid Cloud, Windows Server, Linux, Virtualization, Storage, and Networking platforms.
+</p>
 
-Over the last decade, I've worked across desktop support, systems administration, virtualization, datacenter operations, cloud engineering, and enterprise architecture. That journey has given me a practical understanding of how technology evolves—from supporting individual users to designing cloud platforms that support entire organizations.
+<br>
 
-Today, I focus on helping businesses modernize infrastructure, migrate workloads to Azure, automate deployments through Infrastructure as Code, and build cloud platforms that are secure, scalable, and easy to operate.
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## What I'm Working On
+## ☁️ Cloud Expertise
 
-🔹 Azure Landing Zone Architecture
+- Microsoft Azure
+- Azure IaaS
+- Azure Virtual Machines
+- Azure Storage
+- Azure Networking
+- Azure Backup
+- Azure Site Recovery
+- Azure Monitor
+- Azure Landing Zone
+- Cloud Migration
 
-🔹 Infrastructure as Code with Terraform
 
-🔹 Azure DevOps Automation
+## 🏗 Infrastructure as Code
 
-🔹 Hybrid Cloud Modernization
+- Terraform
+- ARM Templates
+- Azure Resource Manager
+- Azure DevOps Pipelines
+- Infrastructure Deployment Automation
+- PowerShell Automation
+- Azure CLI
 
-🔹 Enterprise Storage & File Service Migrations
 
-🔹 Platform Engineering Practices
+## 🔐 Security & Governance
 
-🔹 Cloud Governance & Cost Optimization
+- Azure RBAC
+- Azure Policy
+- Network Security Groups
+- Private Endpoint
+- Private Link
+- Identity & Access Management
+- Cloud Governance
 
----
 
-## My Approach
+</td>
 
-I believe good infrastructure should be:
+<td width="50%" valign="top">
 
-* Predictable
-* Automated
-* Secure by design
-* Easy to maintain
-* Cost conscious
-* Built for scale
+## 🖥 Platform Engineering
 
-Technology changes quickly, but these principles remain the same whether you're managing a small environment or an enterprise cloud platform.
+### Windows
 
----
+- Windows Server Administration
+- Active Directory
+- DNS / DHCP
+- Group Policy
+- WSUS
+- File Services
 
-## Technologies I Work With
 
-### Cloud
+### Linux
 
-Azure • Azure Storage • Azure Virtual Machines • Azure Virtual Desktop • Azure Backup • Azure Site Recovery • Azure Monitor • Log Analytics
+- Red Hat Enterprise Linux
+- SUSE Linux
+- Ubuntu
+- CentOS
+- LVM
+- Package Management
+- Cloud-init
 
-### Infrastructure as Code
-
-Terraform • ARM Templates • Azure CLI • PowerShell
-
-### DevOps
-
-Azure DevOps • Git • CI/CD Pipelines • Release Automation
-
-### Operating Systems
-
-Windows Server • Active Directory • DNS • DHCP • Group Policy
-
-Linux (RHEL, Ubuntu, SUSE, CentOS)
 
 ### Virtualization
 
-VMware vSphere • ESXi • Hyper-V • Azure Virtual Desktop • FSLogix
+- VMware vSphere
+- ESXi
+- Hyper-V
+- Azure Virtual Desktop
+- FSLogix
 
-### Security & Governance
 
-RBAC • Azure Policy • Vulnerability Management • Cloud Governance • Identity & Access Management
+</td>
 
----
+</tr>
+</table>
 
-## A Few Things I've Been Involved In
 
-* Designing Azure landing zones for enterprise workloads
-* Migrating on-premises infrastructure to Azure
-* Building reusable Terraform deployment frameworks
-* Automating cloud provisioning and deployment pipelines
-* Modernizing enterprise file services and storage platforms
-* Managing large-scale Windows, Linux, VMware, and Azure environments
-* Supporting infrastructure modernization initiatives across global organizations
+<br>
 
----
+## 👨‍💻 Professional Experience
 
-## Current Interests
+<table>
+<tr>
 
-I'm currently spending more time exploring:
+<td width="50%" valign="top">
 
-* Platform Engineering
-* Kubernetes
-* Cloud-native architectures
-* Enterprise automation
-* Observability and monitoring
-* AI-powered operations
+### Cloud Infrastructure Consultant
 
----
+**Mouri Tech**  
+**May 2026 - Present**
 
-## Certifications
+*(Business transition from Strada Global)*
 
-🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-🏅 Microsoft Certified: Azure AI Fundamentals (AI-900)
+Supporting enterprise Azure transformation initiatives:
 
-🏅 Microsoft Azure Linux Specialist
+- Azure Landing Zone implementation
+- Hybrid cloud migration
+- Azure IaaS solutions
+- Infrastructure governance
+- Terraform-based deployments
+- Azure DevOps workflows
+- Cloud security implementation
 
-🏅 Azure DevOps Fundamentals
 
-🏅 Kubernetes for Absolute Beginners
+</td>
 
----
 
-## Why This GitHub Exists
+<td width="50%" valign="top">
 
-This repository is not just a collection of code.
+### Technical Specialist
 
-It's where I document cloud architectures, automation projects, Terraform implementations, migration frameworks, and lessons learned from real-world infrastructure challenges.
+**LTIMindtree**  
+**Sep 2022 - Jul 2025**
 
-If you're interested in Azure, Terraform, DevOps, Hybrid Cloud, or Platform Engineering, you'll find plenty of practical examples here.
 
----
+Delivered Azure infrastructure solutions:
 
-### Build once. Automate forever.
+- Azure VM management
+- Storage solutions
+- Azure networking
+- Backup & DR
+- Linux workloads
+- Cloud migration
+- Infrastructure automation
 
-📍 Hyderabad, India
 
-💼 LinkedIn: linkedin.com/in/hassan-abbas-gora-478b9a83
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+
+## 📂 Featured Portfolio Projects
+
+| Project | Description |
+|---|---|
+| Azure Landing Zone with Terraform | Azure foundation deployment aligned with governance and security practices |
+| Terraform Azure Infrastructure | Automated deployment of Azure resources using Infrastructure as Code |
+| Azure DevOps Infrastructure Pipeline | CI/CD workflow for infrastructure deployments |
+| Hybrid Cloud Networking | Azure networking and secure connectivity patterns |
+| Azure Storage Migration | Enterprise file services migration patterns |
+| Azure Monitoring Automation | Monitoring and operational automation examples |
+
+
+<br>
+
+
+## 🎓 Certifications
+
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure AI Fundamentals
+- Azure Solutions Architect Expert (AZ-305)
+- Kubernetes Fundamentals
+
+
+<br>
+
+
+## 📊 Current Focus
