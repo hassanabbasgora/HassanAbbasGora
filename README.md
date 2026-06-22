@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Cloud Infrastructure Consultant
-### Azure Hybrid Cloud | Landing Zone | Terraform | Azure DevOps | Windows/Linux Platform
+### Azure Hybrid Cloud | Landing Zones | Terraform | Azure DevOps | Windows/Linux
 
 </div>
 
