@@ -1,75 +1,152 @@
-<h1 align="center">
-  Hassan Abbas Gora
-</h1>
+# Hassan Abbas Gora
 
-<h3 align="center">
-Cloud Infrastructure Consultant | Azure Hybrid Cloud | Terraform | Azure DevOps | Windows/Linux Platform
-</h3>
+<div align="center">
 
-<p align="center">
-Azure Infrastructure Engineer with 13+ years of experience designing, implementing, and supporting enterprise infrastructure environments across Microsoft Azure, Hybrid Cloud, Windows Server, Linux, Virtualization, Storage, and Networking platforms.
-</p>
+## Cloud Infrastructure Consultant  
+### Azure Hybrid Cloud | Infrastructure as Code | Azure DevOps | Platform Engineering
 
-<br>
+</div>
 
-<table>
-<tr>
 
-<td width="50%" valign="top">
+## About Me
 
-## ☁️ Cloud Expertise
+Azure Cloud Infrastructure Consultant with 13+ years of experience designing, implementing, and supporting enterprise infrastructure environments across Microsoft Azure, hybrid cloud, Windows Server, Linux, virtualization, storage, and networking platforms.
 
-- Microsoft Azure
-- Azure IaaS
+My experience covers Azure infrastructure architecture, cloud migration, Azure Landing Zone implementation, infrastructure automation, governance, security controls, and operational excellence.
+
+Currently working on:
+
+- Azure Hybrid Cloud Architecture
+- Azure Landing Zone Design
+- Cloud Migration & Modernization
+- Terraform based Infrastructure Deployment
+- Azure DevOps Infrastructure Pipelines
+- Azure Governance and Security
+- Windows and Linux Cloud Platforms
+
+
+---
+
+# Professional Experience
+
+
+## Cloud Infrastructure Consultant
+
+### Mouri Tech
+**May 2026 - Present**
+
+**Business transition from Strada Global with continuation of responsibilities**
+
+Working on enterprise Azure transformation initiatives including:
+
+- Azure infrastructure design and implementation
+- Hybrid cloud migration activities
+- Azure Landing Zone implementation
+- Infrastructure governance and security controls
+- Terraform based infrastructure deployments
+- Azure DevOps deployment workflows
+- Cloud platform optimization
+
+
+---
+
+## Cloud Infrastructure Consultant
+
+### Strada Global
+**Jul 2025 - Apr 2026**
+
+Worked on enterprise cloud modernization initiatives:
+
+- Azure cloud adoption and migration
+- Azure Landing Zone architecture
+- Hybrid infrastructure design
+- Enterprise workload migration
+- Azure networking and security implementation
+- Infrastructure automation using Terraform
+- Azure DevOps based deployment workflows
+
+
+---
+
+## Technical Specialist
+
+### LTIMindtree
+
+**Sep 2022 - Jul 2025**
+
+Delivered Azure infrastructure solutions across enterprise environments:
+
 - Azure Virtual Machines
-- Azure Storage
+- Azure Storage Services
 - Azure Networking
+- Azure Backup and Site Recovery
+- Linux workloads on Azure
+- Azure migration activities
+- PowerShell automation
+- Identity and access management
+- Azure monitoring and operational support
+
+
+---
+
+# Technical Skills
+
+
+## Microsoft Azure
+
+- Azure Virtual Machines
+- Azure Storage Accounts
+- Azure Files
+- Azure Blob Storage
 - Azure Backup
 - Azure Site Recovery
 - Azure Monitor
+- Azure Networking
+- Azure DNS
+- Private Endpoint
+- Private Link
+- Azure Policy
+- Azure RBAC
 - Azure Landing Zone
-- Cloud Migration
 
 
-## 🏗 Infrastructure as Code
+## Infrastructure as Code / Automation
 
 - Terraform
 - ARM Templates
 - Azure Resource Manager
 - Azure DevOps Pipelines
-- Infrastructure Deployment Automation
-- PowerShell Automation
+- YAML based deployments
+- PowerShell
 - Azure CLI
+- Azure Automation
 
 
-## 🔐 Security & Governance
+## Cloud Architecture
 
-- Azure RBAC
-- Azure Policy
-- Network Security Groups
-- Private Endpoint
-- Private Link
-- Identity & Access Management
-- Cloud Governance
+- Azure Cloud Adoption Framework
+- Azure Well Architected Framework
+- Hybrid Cloud Architecture
+- Migration Planning
+- Infrastructure Modernization
+- Governance and Security
 
 
-</td>
+## Operating Systems
 
-<td width="50%" valign="top">
 
-## 🖥 Platform Engineering
+### Windows Platform
 
-### Windows
-
-- Windows Server Administration
-- Active Directory
-- DNS / DHCP
+- Windows Server
+- Active Directory Domain Services
+- DNS
+- DHCP
 - Group Policy
 - WSUS
 - File Services
 
 
-### Linux
+### Linux Platform
 
 - Red Hat Enterprise Linux
 - SUSE Linux
@@ -78,106 +155,92 @@ Azure Infrastructure Engineer with 13+ years of experience designing, implementi
 - LVM
 - Package Management
 - Cloud-init
+- Shell scripting
 
 
-### Virtualization
+## Virtualization
 
 - VMware vSphere
-- ESXi
+- VMware ESXi
 - Hyper-V
 - Azure Virtual Desktop
 - FSLogix
+- Citrix VDI
 
 
-</td>
+---
 
-</tr>
-</table>
-
-
-<br>
-
-## 👨‍💻 Professional Experience
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Cloud Infrastructure Consultant
-
-**Mouri Tech**  
-**May 2026 - Present**
-
-*(Business transition from Strada Global)*
+# Certifications
 
 
-Supporting enterprise Azure transformation initiatives:
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-- Azure Landing Zone implementation
-- Hybrid cloud migration
-- Azure IaaS solutions
-- Infrastructure governance
-- Terraform-based deployments
-- Azure DevOps workflows
-- Cloud security implementation
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
 
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
 
-</td>
-
-
-<td width="50%" valign="top">
-
-### Technical Specialist
-
-**LTIMindtree**  
-**Sep 2022 - Jul 2025**
-
-
-Delivered Azure infrastructure solutions:
-
-- Azure VM management
-- Storage solutions
-- Azure networking
-- Backup & DR
-- Linux workloads
-- Cloud migration
-- Infrastructure automation
-
-
-</td>
-
-</tr>
-</table>
-
-
-<br>
-
-
-## 📂 Featured Portfolio Projects
-
-| Project | Description |
-|---|---|
-| Azure Landing Zone with Terraform | Azure foundation deployment aligned with governance and security practices |
-| Terraform Azure Infrastructure | Automated deployment of Azure resources using Infrastructure as Code |
-| Azure DevOps Infrastructure Pipeline | CI/CD workflow for infrastructure deployments |
-| Hybrid Cloud Networking | Azure networking and secure connectivity patterns |
-| Azure Storage Migration | Enterprise file services migration patterns |
-| Azure Monitoring Automation | Monitoring and operational automation examples |
-
-
-<br>
-
-
-## 🎓 Certifications
-
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure AI Fundamentals
-- Azure Solutions Architect Expert (AZ-305)
 - Kubernetes Fundamentals
 
 
-<br>
+---
+
+# Portfolio Projects
 
 
-## 📊 Current Focus
+## Azure Landing Zone with Terraform
+
+Infrastructure deployment approach covering:
+
+- Subscription organization
+- Networking foundation
+- Security controls
+- Governance policies
+- Reusable Terraform modules
+
+
+## Azure Infrastructure Automation
+
+Examples:
+
+- Terraform based Azure deployments
+- Azure DevOps pipelines
+- Infrastructure configuration automation
+
+
+## Hybrid Cloud Migration
+
+Implementation examples:
+
+- On-premises to Azure migration approach
+- Azure Storage migration
+- File services modernization
+- Workload migration planning
+
+
+## Azure Monitoring Automation
+
+Examples:
+
+- Azure Monitor implementation
+- Log Analytics integration
+- Operational automation
+
+
+---
+
+# Current Learning Focus
+
+- Advanced Terraform modules
+- Azure DevOps CI/CD
+- Kubernetes platform engineering
+- AI enabled infrastructure operations
+- Cloud automation
+
+
+---
+
+# Connect
+
+LinkedIn:
+
+https://linkedin.com/in/hassan-abbas-gora-478b9a83
